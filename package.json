@@ -1,5 +1,6 @@
 {
   "devDependencies": {
-    "eslint-plugin-react": "^7.29.4"
+    "eslint-plugin-react": "^7.29.4",
+    "gh-pages": "^4.0.0"
   }
 }
